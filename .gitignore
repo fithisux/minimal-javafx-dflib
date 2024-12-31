@@ -1,0 +1,5 @@
+.theia/
+.metals/
+.bloop/
+target/
+dependency-reduced-pom.xml
